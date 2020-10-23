@@ -29,27 +29,27 @@ python manage.py export_data/path/to/file.csv
 ### Map View
 A view that shows a map that displays the location of the squirrel sightings on an OpenStreets map. 
 
-[**Squirrel Map**](https:)
+**Squirrel Map**
 
 ### Squirrel Lists View
 A view that lists all squirrel sightings with links to view each sighting 
 
-[**Squirrel Lists**](https:)
+**Squirrel Lists**
 
 ### Squirrel Update View 
 A view to update a particular sighting 
 
-[**Squirrel Update**](https:)
+**Squirrel Update**
 
 ### Squirrel Create View
 A view to create a new sighting 
 
-[**Squirrel Create**](https:)
+**Squirrel Create**
 
 ### Squirrel Stats View 
 A view with general stats about the sightings 
 
-[**Squirrel Stats**](https:)
+**Squirrel Stats**
 
 ## Dependent Resources
 [**Django**](https://www.djangoproject.com/)
@@ -68,4 +68,4 @@ The full description for this project can be found in [**Squirrel Tracker**](htt
 
 **UNIs:** **[yl4585, rw2840]**
 
-**Link:** For more information, please go to this [**Project**](https://ruozhuwang/Final_Project.appspot.com/) to see our application web page.
+**Link:** For more information, please go to this [**Project**](https://github.com/ruozhuwang/Final_Project/) to see our application web page.
