@@ -68,4 +68,4 @@ The full description for this project can be found in [**Squirrel Tracker**](htt
 
 **UNIs:** **[yl4585, rw2840]**
 
-**Link:** For more information, please go to this [**Project**]() to see our application web page.
+**Link:** For more information, please go to this [**Project**](https://ruozhuwang/Final_Project.appspot.com/) to see our application web page.
